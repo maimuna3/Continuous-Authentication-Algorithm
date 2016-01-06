@@ -1,0 +1,16 @@
+---------------------------------------------
+The folder named 'files' contains the files of the measurements for 10 persons
+
+it also contains a folder named merged- this contains files for 10 cheating scenarios
+
+----------------------------------------------
+in order to execute the program, install python 2.7 or higher, install the NumPy, SciPy, Matplotlib and Pylab packages.
+
+----------------------------------------------
+To execute the program, run the 'Student.py' file. You then have the choice to either enrol or take a test.
+
+To change the file(signal), go to the 'startSignal' method in the 'Signals.py' and change the name of the file being loaded.
+
+-----------------------------------------------
+Thank you.
+Maimuna
